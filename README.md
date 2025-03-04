@@ -8,10 +8,13 @@ Sou um fã da tecnologia e futuro profissional de TI! 🚀 A cada dia, a área m
 
 [![Murilo Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muriiloedu&show_icons=true&theme=radical)](https://github.com/Muriiloedu)
 
-### Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muriiloedu&theme=radical)](https://git.io/streak-stats)
 
 ### Linguagens Mais Utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muriiloedu&layout=compact&theme=radical)](https://github.com/Muriiloedu)
+
+###Projetos
+ 
+[Criando um sistema de alerta de enchentes para Sorocaba com o ESP32.](https://www.linkedin.com/posts/muriloeduardolima_sorocaba-enchentes-prevenaexaetodeacidentes-activity-7203812533122539520-zBw5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBd9CkBbFpr1zPZcwt44stzI9keHbGiHcw)
+
+[KomunityON.](https://www.linkedin.com/posts/danielg-cravo_komunityon-inovaaexaeto-tecnologia-ugcPost-7272223845879590912-O007?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBd9CkBbFpr1zPZcwt44stzI9keHbGiHcw)
