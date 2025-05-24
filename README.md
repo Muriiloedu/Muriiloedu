@@ -79,8 +79,9 @@
 ###
 
 <picture>
-  <img  style = "backcolor : black" alt="pacman contribution graph" src="https://raw.githubusercontent.com/muriiloedu/muriiloedu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muriiloedu/muriiloedu/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 ###
