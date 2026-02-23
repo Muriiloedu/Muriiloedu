@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou um fã da tecnologia e futuro profissional de TI! A cada dia, a área me fascina mais e mais! No momento, equilibro o trabalho administrativo com os estudos em Análise e Desenvolvimento de Sistemas (4º semestre - FACENS). Java é meu ponto de partida, mas estou me aventurando no universo de Python, JavaScript, CSS e HTML. Fascinado por projetos de TI e pelas infinitas possibilidades da Inteligência Artificial. Vamos conversar ?</p>
+<p align="left">Sou um fã da tecnologia e futuro profissional de TI! A cada dia, a área me fascina mais e mais! No momento, equilibro o trabalho administrativo com os estudos em Análise e Desenvolvimento de Sistemas (5º semestre - FACENS). Java é meu ponto de partida, mas estou me aventurando no universo de Python, JavaScript, CSS e HTML. Fascinado por projetos de TI e pelas infinitas possibilidades da Inteligência Artificial. Vamos conversar ?</p>
 
 ###
 
